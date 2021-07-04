@@ -22,4 +22,5 @@ table, th, td, tr, tbody
 .note{
   font-weight: normal;
   font-style: italic;
+  font-size: 12px;
 }
