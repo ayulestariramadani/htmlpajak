@@ -4,3 +4,22 @@ table, th, td, tr, tbody
   border-collapse: collapse;
 
 }
+
+.nonBorder{
+  border: 1px solid white !important;
+}
+
+.center{
+  text-align: center;
+}
+
+.img{
+  float:left;
+  margin-left: 30px;
+  width: 10%;
+}
+
+.note{
+  font-weight: normal;
+  font-style: italic;
+}
